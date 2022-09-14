@@ -19,4 +19,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ##### Author
 
 - Website - [Ny Nivoarijaona](https://ny-nivoarijaona.space)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/fanasinany)
+- Frontend Mentor - [@nynivoarijaona](https://www.frontendmentor.io/profile/fanasinany)
