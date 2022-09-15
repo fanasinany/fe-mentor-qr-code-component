@@ -27,18 +27,25 @@ body {
 .card-wrapper > div:last-of-type {
   padding: 16px 12px;
 }
+@media (max-width: 375px) {
+  .card-wrapper {
+    width: unset;
+  }
+}
 
 p,
-h2 {
+h1 {
   margin: 0;
   text-align: center;
 }
 
 .title {
   font-size: 1.4em;
+  padding: 16px 12px 0 12px;
 }
 
 .description {
   margin-top: 16px;
   color: hsl(220deg, 15%, 55%);
+  padding: 0px 12px 16px 12px;
 }/*# sourceMappingURL=style.css.map */
